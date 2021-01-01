@@ -1,0 +1,4 @@
+<!--pages/welcome/welcome.wxml-->
+<image src="/images/avatar/boy.jpg"></image>
+<text>Hello,Chauncy</text> 
+<button></button>
