@@ -1,4 +1,9 @@
 <!--pages/welcome/welcome.wxml-->
-<image src="/images/avatar/boy.jpg"></image>
-<text>Hello,Chauncy</text> 
-<button></button>
+<view class="container">
+  <image class="user-avatar" src="/images/avatar/1.png"></image>
+  <text class="motto">Hello,Chauncy</text> 
+  <view class="journey-container">
+    <text class="journey">开启小程序之旅</text>
+  </view>
+</view>
+
