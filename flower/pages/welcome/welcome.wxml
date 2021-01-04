@@ -3,7 +3,7 @@
   <!-- <image class="user-avatar" src="/images/avatar/1.png"></image> -->
   <l-avatar class="l-avatar" size="200" placement="bottom" open-data="{{['userAvatarUrl','userNickName']}}" />
   <text class="motto">Hello,Chauncy</text> 
-  <view class="journey-container">
+  <view bind:tap="onTap" class="journey-container">
     <text class="journey">开启小程序之旅</text>
   </view>
 </view>
